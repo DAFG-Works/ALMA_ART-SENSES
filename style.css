@@ -10,6 +10,11 @@ p{
     font-size: 19px;
 }
 
+a{
+    color: #000000;
+    text-decoration: none;
+}
+
 header{
     height: top;
     content: '';
@@ -177,7 +182,7 @@ section#PAGE2 > ul > li > a{
     height: 314px;
     padding-left: 1rem;
     position: relative;
-    right: 373px;
+    right: 23rem;
 }
 
 #ARTIST > #ARTIST_TEXT{
@@ -268,9 +273,9 @@ section#PAGE2 > ul > li > a{
 }
 
 #MENU_COLOR > #COLOR_MENU > ul{
-    padding-bottom: 20rem;
+    padding-bottom: 7rem;
     padding-right: 1rem;
-    padding-left: 5rem;
+    padding-left: 3rem;
 }
 
 #MENU_COLOR > #COLOR_MENU > ul > li{
@@ -453,21 +458,16 @@ section#PAGE2 > ul > li > a{
     width: 220px;
     height: 220px;
     position: relative;
-    right: 15.5rem;
-    top: 15.5rem;
-    /* margin-top: 1rem;
-    margin-right: 0.5rem; */
+    left: 74rem;
+    top: 1.5rem;
 }
 
 #GREEN > figure > img:nth-child(7) {
     width: 220px;
     height: 220px;
     position: relative;
-    left: 73.75rem;
+    left: 45rem;
     top: 1.5rem;
-    /* margin-top: 1rem;
-    margin-left: 0.5rem;
-    padding-right: 0.5rem; */
 }
 
 #YELLOW {
@@ -803,15 +803,15 @@ section#PAGE2 > ul > li > a{
     width: 85px;
     height: 120px;
     position: relative;
-    right: 57.5rem;
-    top: 11.75rem;
+    right: -25.5rem;
+    top: 4rem;
 }
 
 #OTHER_SENSE > figure > img:nth-child(12) {
     width: 97px;
     height: 120px;
     position: relative;
-    left: 31.10rem;
+    left: 25.5rem;
     top: 4rem;
 }
 
@@ -819,7 +819,7 @@ section#PAGE2 > ul > li > a{
     width: 95px;
     height: 120px;
     position: relative;
-    left: 31.10rem;
+    left: 25.5rem;
     top: 4rem;
 }
 
@@ -827,7 +827,7 @@ section#PAGE2 > ul > li > a{
     width: 118px;
     height: 120px;
     position: relative;
-    left: 31.10rem;
+    left: 25.5rem;
     top: 4rem;
 }
 
@@ -835,7 +835,7 @@ section#PAGE2 > ul > li > a{
     width: 122px;
     height: 120px;
     position: relative;
-    left: 31.10rem;
+    left: 25.5rem;
     top: 4rem;
 }
 
@@ -843,7 +843,7 @@ section#PAGE2 > ul > li > a{
     width: 224px;
     height: 120px;
     position: relative;
-    left: 31.10rem;
+    left: 25.5rem;
     top: 4rem;
 }
 
@@ -851,7 +851,7 @@ section#PAGE2 > ul > li > a{
     width: 92px;
     height: 120px;
     position: relative;
-    left: 31.10rem;
+    left: 25.5rem;
     top: 4rem;
 }
 
@@ -859,7 +859,7 @@ section#PAGE2 > ul > li > a{
     width: 195px;
     height: 120px;
     position: relative;
-    right: 37.4rem;
+    right: 43rem;
     top: 11.75rem;
 }
 
@@ -867,7 +867,7 @@ section#PAGE2 > ul > li > a{
     width: 120px;
     height: 120px;
     position: relative;
-    right: 37.4rem;
+    right: 43rem;
     top: 11.75rem;
 }
 
@@ -875,7 +875,7 @@ section#PAGE2 > ul > li > a{
     width: 105px;
     height: 120px;
     position: relative;
-    right: 37.4rem;
+    right: 43rem;
     top: 11.75rem;
 }
 
@@ -883,23 +883,23 @@ section#PAGE2 > ul > li > a{
     width: 131px;
     height: 120px;
     position: relative;
-    right: 37.4rem;
-    top: 11.75rem;
+    right: -38rem;
+    top: 4rem;
 }
 
 #OTHER_SENSE > figure > img:nth-child(22) {
     width: 90px;
     height: 120px;
     position: relative;
-    right: 37.4rem;
-    top: 11.75rem;
+    right: -38rem;
+    top: 4rem;
 }
 
 #OTHER_SENSE > figure > img:nth-child(23) {
     width: 99px;
     height: 120px;
     position: relative;
-    left: 51.7rem;
+    right: -38rem;
     top: 4rem;
 }
 
@@ -907,7 +907,7 @@ section#PAGE2 > ul > li > a{
     width: 98px;
     height: 120px;
     position: relative;
-    left: 51.7rem;
+    right: -38rem;
     top: 4rem;
 }
 
@@ -915,7 +915,7 @@ section#PAGE2 > ul > li > a{
     width: 80px;
     height: 120px;
     position: relative;
-    left: 51.7rem;
+    right: -38rem;
     top: 4rem;
 }
 
@@ -923,7 +923,7 @@ section#PAGE2 > ul > li > a{
     width: 151px;
     height: 120px;
     position: relative;
-    left: 51.7rem;
+    right: -38rem;
     top: 4rem;
 }
 
@@ -931,7 +931,7 @@ section#PAGE2 > ul > li > a{
     width: 82px;
     height: 110px;
     position: relative;
-    right: 16.8rem;
+    right: 31.2rem;
     top: 11.20rem;
 }
 
@@ -939,7 +939,7 @@ section#PAGE2 > ul > li > a{
     width: 160px;
     height: 110px;
     position: relative;
-    right: 16.8rem;
+    right: 31.2rem;
     top: 11.20rem;
 }
 
@@ -947,7 +947,7 @@ section#PAGE2 > ul > li > a{
     width: 160px;
     height: 110px;
     position: relative;
-    right: 16.8rem;
+    right: 31.2rem;
     top: 11.20rem;
 }
 
@@ -955,7 +955,7 @@ section#PAGE2 > ul > li > a{
     width: 110px;
     height: 110px;
     position: relative;
-    right: 16.8rem;
+    right: 31.2rem;
     top: 11.20rem;
 }
 
@@ -963,7 +963,7 @@ section#PAGE2 > ul > li > a{
     width: 118px;
     height: 110px;
     position: relative;
-    right: 16.8rem;
+    right: 31.2rem;
     top: 11.20rem;
 }
 
@@ -971,23 +971,23 @@ section#PAGE2 > ul > li > a{
     width: 135px;
     height: 110px;
     position: relative;
-    right: 16.8rem;
-    top: 11.20rem;
+    right: -51.8rem;
+    top: 4.1rem;
 }
 
 #OTHER_SENSE > figure > img:nth-child(33) {
     width: 76px;
     height: 110px;
     position: relative;
-    right: 16.8rem;
-    top: 11.20rem;
+    right: -51.8rem;
+    top: 4.1rem;
 }
 
 #OTHER_SENSE > figure > img:nth-child(34) {
     width: 132px;
     height: 110px;
     position: relative;
-    left: 65.5rem;
+    left: 51.7rem;
     top: 4rem;
 }
 
@@ -995,7 +995,7 @@ section#PAGE2 > ul > li > a{
     width: 85px;
     height: 110px;
     position: relative;
-    left: 65.5rem;
+    left: 51.7rem;
     top: 4rem;
 }
 
@@ -1186,3 +1186,160 @@ div.ALMA_FINAL > h4{
 .scroll-to-top:hover {
     background-color: darkblue;
 }
+
+/* Responsive CSS for Tablet (768px) and Phone (480px) */
+
+@media screen and (max-width: 768px) {
+    div.HEADER > h1 {
+      font-size: 40px;
+      margin: 15vh 10vh;
+    }
+  
+    div.HEADER > h4 {
+      font-size: 20px;
+    }
+  
+    div.MENU {
+      max-width: 3rem;
+      padding-left: 1rem;
+    }
+  
+    #ARTIST > #ARTIST_TEXT {
+      padding-left: 2rem;
+      padding-right: 2rem;
+      bottom: 10rem;
+      font-size: 16px;
+    }
+  
+    #STATEMENT > p {
+      padding-left: 2rem;
+      padding-right: 2rem;
+      right: 0;
+      font-size: 16px;
+    }
+  
+    #STATEMENT > figure > img {
+      width: 100%;
+      height: auto;
+      left: 0;
+      bottom: 0;
+      position: static;
+    }
+  
+    #TECHNIQUE > p {
+      padding-left: 2rem;
+      margin-right: 2rem;
+      bottom: 5rem;
+      left: 0;
+      font-size: 16px;
+    }
+  
+    #TECHNIQUE > figure > img {
+      width: 100%;
+      height: auto;
+      position: static;
+    }
+  
+    #MENU_COLOR > #COLOR_MENU > ul {
+      padding-left: 2rem;
+      padding-right: 2rem;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 1rem;
+    }
+  
+    #MENU_COLOR > #COLOR_MENU > ul > li {
+      left: 0;
+      font-size: 20px;
+    }
+  
+    section#PAGE2 > ul > li > a {
+      font-size: 24px;
+    }
+  
+    #RED > p, #YELLOW > p, #GREEN > p, #BLUE > p, #PURPLE > p {
+      font-size: 28px;
+      text-align: left;
+      padding: 1rem;
+    }
+  
+    figure img {
+      width: 100%;
+      height: auto;
+      position: static !important;
+    }
+  }
+
+  @media screen and (max-width: 480px) {
+    div.HEADER > h1 {
+      font-size: 30px;
+      margin: 10vh 2rem;
+    }
+  
+    div.HEADER > h4 {
+      font-size: 18px;
+    }
+  
+    div.MENU {
+      max-width: 2rem;
+      padding-left: 0.5rem;
+    }
+  
+    #ARTIST > h2,
+    #STATEMENT > h2,
+    #TECHNIQUE > h2,
+    #MENU_COLOR > h1 {
+      font-size: 28px;
+      padding-top: 2rem;
+    }
+  
+    #ARTIST > #ARTIST_TEXT,
+    #STATEMENT > p,
+    #TECHNIQUE > p {
+      font-size: 14px;
+      padding: 1rem;
+      bottom: 0;
+      right: 0;
+    }
+  
+    section#PAGE2 > h2,
+    section#PAGE2 > ul > li > a {
+      font-size: 20px;
+    }
+  
+    #MENU_COLOR > #COLOR_MENU > ul {
+      padding: 1rem;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+  
+    #MENU_COLOR > #COLOR_MENU > ul > li {
+      left: 0;
+      font-size: 18px;
+    }
+  
+    #RED > p,
+    #YELLOW > p,
+    #GREEN > p,
+    #BLUE > p,
+    #PURPLE > p {
+      font-size: 24px;
+      text-align: center;
+      padding: 1rem;
+    }
+  
+    figure img {
+      width: 100%;
+      height: auto;
+      position: static !important;
+    }
+  
+    .ICONOS > ul {
+      position: static;
+      padding: 1rem;
+      flex-direction: row;
+      justify-content: center;
+    }
+  }
